@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Andrew Avetyan
 
 <!--
 **AnAvetyan26/AnAvetyan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
