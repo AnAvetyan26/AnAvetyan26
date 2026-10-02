@@ -1,5 +1,6 @@
 ## Hi there 👋 My name is Andrew Avetyan
-
+## My favorite food is Lobster Mac n Cheese
+## If you want to reach me, you can email my school email, andrew.avetyan@ht-la.org
 <!--
 **AnAvetyan26/AnAvetyan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
